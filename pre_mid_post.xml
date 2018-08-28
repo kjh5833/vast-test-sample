@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/note9.xml
 </vmap:AdTagURI>
 </vmap:AdSource>
 </vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:00:30.000" breakType="linear" breakId="midroll-1">
+<vmap:AdBreak timeOffset="00:15:00.000" breakType="linear" breakId="midroll-1">
 <vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[

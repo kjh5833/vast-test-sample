@@ -110,41 +110,21 @@ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjstSKK7vSqXOP42WD1KxPAJXwHejR
 https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/3gpp" bitrate="69" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/74a5ae2cc4775d2a/itag/36/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1535448516/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/AB3F19E7740921AF8F175F2E84F6F2CD84EB82C8.2E439CFF45BD4F5E9543B3991AE7044964EC051E/key/ck2/file/file.3gp
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/3gpp" bitrate="37" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/74a5ae2cc4775d2a/itag/17/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ctier/L/ip/0.0.0.0/ipbits/0/expire/1535448516/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/44246AAAD46829A68AD13E18224A8B506AB0E69D.82BD14A8B5367BB47DE92C68B5DEF37114ADEDC5/key/ck2/file/file.3gp
-]]>
-</MediaFile>
+
+
 <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="118" scalable="true" maintainAspectRatio="true">
 <![CDATA[
 https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="138" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/74a5ae2cc4775d2a/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1535448516/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/5B2CC4001AD8E86B590D685190C42B0CBD40297E.21E5BF5DD77C329DDBAA3269F5DDD0FB29F2253C/key/ck2/file/file.webm
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/webm" bitrate="255" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/74a5ae2cc4775d2a/itag/45/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1535448516/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/88B3E926A81213F39EEC75A5C5E6B7BB22680CBA.2271920D534C13E7BB614EE1C6225083C1D58E45/key/ck2/file/file.webm
-]]>
-</MediaFile>
+
+
 <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="241" scalable="true" maintainAspectRatio="true">
 <![CDATA[
 https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="150" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/74a5ae2cc4775d2a/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1535448516/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/63A4DBF31668B9AE023C3C86DEC171F10768F3D0.080EA0E3AD58E1DD7DE34E2CAE44C6173B81136C/key/ck2/file/file.webm
-]]>
-</MediaFile>
+
 </MediaFiles>
 </Linear>
 </Creative>

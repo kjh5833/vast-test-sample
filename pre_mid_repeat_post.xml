@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/yanolza.xml
 </vmap:AdTagURI>
 </vmap:AdSource>
 </vmap:AdBreak>
-<vmap:AdBreak timeOffset="00:01:00.000" breakType="linear" breakId="midroll-1">
+<vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="midroll-1">
 <vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xm
 </vmap:AdSource>
 </vmap:AdBreak>
 
-<vmap:AdBreak timeOffset="00:02:00.000" breakType="linear" breakId="midroll-2">
+<vmap:AdBreak timeOffset="00:10:00.000" breakType="linear" breakId="midroll-2">
 <vmap:AdSource id="midroll-2-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xm
 </vmap:AdSource>
 </vmap:AdBreak>
 
-<vmap:AdBreak timeOffset="00:03:00.000" breakType="linear" breakId="midroll-3">
+<vmap:AdBreak timeOffset="00:15:00.000" breakType="linear" breakId="midroll-3">
 <vmap:AdSource id="midroll-3-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xm
 </vmap:AdSource>
 </vmap:AdBreak>
 
-<vmap:AdBreak timeOffset="00:04:00.000" breakType="linear" breakId="midroll-4">
+<vmap:AdBreak timeOffset="00:20:00.000" breakType="linear" breakId="midroll-4">
 <vmap:AdSource id="midroll-4-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xm
 </vmap:AdSource>
 </vmap:AdBreak>
 
-<vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="midroll-5">
+<vmap:AdBreak timeOffset="00:25:00.000" breakType="linear" breakId="midroll-5">
 <vmap:AdSource id="midroll-5-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
@@ -58,8 +58,19 @@ https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xm
 </vmap:AdSource>
 </vmap:AdBreak>
 
-<vmap:AdBreak timeOffset="00:06:00.000" breakType="linear" breakId="midroll-6">
+<vmap:AdBreak timeOffset="00:35:00.000" breakType="linear" breakId="midroll-6">
 <vmap:AdSource id="midroll-6-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xml
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
+
+<vmap:AdBreak timeOffset="00:40:00.000" breakType="linear" breakId="midroll-7">
+<vmap:AdSource id="midroll-7-ad-1" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
 https://raw.githubusercontent.com/kjh5833/vast-test-sample/master/kanu_bumper.xml

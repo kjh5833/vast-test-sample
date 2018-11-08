@@ -1,0 +1,11 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+<vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+https://pubads.g.doubleclick.net/gampad/ads?slotname=/4905536/transvision_android/video_ad&sz=400x300%7C640x480&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=%5Bplaceholder%5D&vad_type=linear&vpos=preroll&pod=1&vrid=1101512&max_ad_duration=30000&min_ad_duration=0&npa=false&kfa=0&tfcd=0
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+
